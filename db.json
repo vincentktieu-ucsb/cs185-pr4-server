@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "title": "CS 185 Misha's Office Hour",
+      "date": "2021-03-05T19:00",
+      "zoomLink": "https://ucsb.zoom.us/j/86623368970",
+      "important": true
+    },
+    {
+      "title": "CS 185 Wenda's Office Hour",
+      "date": "2021-03-05T09:00",
+      "zoomLink": "https://ucsb.zoom.us/j/8311826784",
+      "important": true
+    },
+    {
+      "title": "Game Night",
+      "date": "2021-03-05T23:00",
+      "zoomLink": "https://ucsb.zoom.us/j/8311826784",
+      "important": false
+    },
+    {
+      "title": "new meeting",
+      "date": "2021-02-27T00:30",
+      "zoomLink": "https://ucsb.zoom.us/j/8311826784",
+      "important": false
+    }
+  ]
+}
